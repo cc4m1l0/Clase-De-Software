@@ -1,6 +1,8 @@
 # Clase De Software más grande del mundo
-En este proyecto se cargará el material que vas a necesitar para participar de la clase de software más grande del mundo
-Una vez esté el material debes seguir los siguientes pasos
+En este proyecto se cargará el material que como estudiante vas a necesitar para participar en **la clase de software más grande del mundo**
+
+Una vez esté el material debes seguir los siguientes pasos:
+
 1. Haz clic sobre el botón verde ubicado arriba a la derecha, que contiene el téxto, Código,
 y luego haz clic en la opción Descargar 
 ZIP. Cuando se complete la descarga, 
